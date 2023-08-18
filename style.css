@@ -86,6 +86,7 @@ h3 {
   width: max-content;
   border-radius: 0.33rem;
   font-size: clamp(1.2rem, 2vw, 1.5rem);
+  letter-spacing: 1px;
   aspect-ratio: 4/1;
   cursor: pointer;
   padding: 1rem 2rem;
